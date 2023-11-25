@@ -38,7 +38,7 @@ Evaluated models on both training and testing sets:
 * Linear SVC:
     - Training Accuracy: 94.45%
     - Testing Accuracy: 95.48%
-*Random Forest Classifier:
+* Random Forest Classifier:
     - Training Accuracy: 100.0%
     - Testing Accuracy: 94.47%
 * MLP Classifier:
